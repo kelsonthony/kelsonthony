@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a versatile Fullstack Developer specializing i
 ## Backend Technologies
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> **Java Spring Boot**: Building robust and scalable backend applications.
 - <img src="https://img.icons8.com/color/48/000000/api-settings.png"/> **REST API**: Creating APIs for seamless communication between services.
+- <img src="https://iconape.com/wp-content/png_logo_vector/apache-camel.png" style="width:48px;height:48"/> **Apache Camel**: Camel is an Open Source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
 - <img src="https://img.icons8.com/color/48/000000/database-restore.png"/> **JPA/Hibernate**: Mapping Java objects to relational databases.
 - <img src="https://img.icons8.com/fluent/48/000000/data-configuration.png"/> **Flyway**: Database schema version control for smooth migrations.
 - <img src="https://img.icons8.com/color/48/000000/maven.png"/> **Maven and Gradle**: Managing project dependencies and builds efficiently.
