@@ -1,57 +1,125 @@
-# Software Engineer | Fullstack Developer 
+# 👋 Hi, I'm Kelson Menezes
 
-Welcome to my GitHub profile! I'm a versatile Fullstack Developer specializing in Middleware technologies. My skill set encompasses a wide range of backend and frontend technologies, cloud services, and DevOps practices. Whether you're interested in backend development, frontend design, or cloud infrastructure, I've got you covered.
+## 🧠 Senior Software Engineer | Distributed Systems Architect | Tech Lead
 
-## Backend Technologies
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> **Java Spring Boot**: Building robust and scalable backend applications.
-- <img src="https://img.icons8.com/color/48/000000/api-settings.png"/> **REST API**: Creating APIs for seamless communication between services.
-- <img src="https://iconape.com/wp-content/png_logo_vector/apache-camel.png" style="width:48px;height:48"/> **Apache Camel**: Camel is an Open Source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
-- <img src="https://img.icons8.com/color/48/000000/database-restore.png"/> **JPA/Hibernate**: Mapping Java objects to relational databases.
-- <img src="https://img.icons8.com/fluent/48/000000/data-configuration.png"/> **Flyway**: Database schema version control for smooth migrations.
-- <img src="https://img.icons8.com/color/48/000000/maven.png"/> **Maven and Gradle**: Managing project dependencies and builds efficiently.
-- <img src="https://img.icons8.com/color/48/000000/classroom.png"/> **Domain-Driven Design (DDD)**: Designing software with a focus on the domain.
-- <img src="https://img.icons8.com/color/48/000000/source-code.png"/> **Test Driven Development (TDD)**: Ensuring code quality through rigorous testing.
-- <img src="https://img.icons8.com/color/48/000000/rabbitmq.png"/> **RabbitMQ**: Implementing message queuing for asynchronous tasks.
-- <img src="https://img.icons8.com/color/48/000000/testing.png"/> **Unit Testing and Validations**: Writing tests to validate code functionality.
-- <img src="https://img.icons8.com/color/48/000000/microservices.png"/> **Microservices Architecture**: Designing and developing microservices.
-- <img src="https://img.icons8.com/color/48/000000/api-settings--v1.png"/> **OpenAPI and HATEOAS**: Building RESTful APIs with discoverability.
-- <img src="https://img.icons8.com/color/48/000000/authentication.png"/> **OAuth2 and JWT**: Securing APIs and enabling user authentication.
-- <img src="https://img.icons8.com/color/48/000000/database-restore.png"/> **SQL and NoSQL databases**: Proficiency in both relational and NoSQL databases.
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> **NodeJS and PHP APIs**: Extending capabilities with NodeJS and PHP.
+Building high-performance, scalable, and resilient systems for financial and mission-critical environments.
 
-## Observability
-- <img src="https://img.icons8.com/ios/48/000000/security-checked.png"/> **Resilience4J**: Enhancing application resilience.
-- <img src="https://img.icons8.com/ios/48/000000/security-checked.png"/> **Bucket4J**: Rate limiting to protect APIs.
-- <img src="https://img.icons8.com/ios/48/000000/security-checked.png"/> **CircuitBreaker**: Preventing cascading failures in distributed systems.
-- <img src="https://img.icons8.com/color/48/000000/grafana.png"/> **Grafana**: Monitoring and visualization of system metrics.
-- <img src="https://img.icons8.com/color/48/000000/prometheus.png"/> **Prometheus**: Collecting and alerting on real-time data.
-- <img src="https://img.icons8.com/color/48/000000/metrics.png"/> **Micrometer**: Application metrics collection.
+With 15+ years of experience, I specialize in **event-driven architectures**, **high-throughput data pipelines**, and **cloud-native microservices**, combining strong backend engineering with modern AI-driven workflows.
 
-## Frontend Expertise
-- <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> **AngularJS**, <img src="https://img.icons8.com/ios/48/000000/react-native.png"/> **ReactJS**, <img src="https://img.icons8.com/color/48/000000/jquery.png"/> **jQuery**: Crafting interactive and user-friendly interfaces.
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> **VanillaJS**, **JavaScript**: Mastering frontend scripting languages.
+---
 
-## AWS Cloud Services
-- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> **IAM**: Managing access and permissions securely.
-- <img src="https://img.icons8.com/color/48/000000/amazon-s3.png"/> **S3**: Storing and retrieving data efficiently.
-- <img src="https://img.icons8.com/color/48/000000/amazon-ses.png"/> **Amazon Simple Email Service (SES)**: Email delivery and notifications.
-- <img src="https://img.icons8.com/color/48/000000/database.png"/> **RDS**: Reliable relational database service.
-- <img src="https://img.icons8.com/color/48/000000/virtual-private-cloud.png"/> **VPC**: Building isolated network environments.
-- <img src="https://img.icons8.com/color/48/000000/amazon-ec2.png"/> **EC2**: Scalable virtual server instances.
-- <img src="https://img.icons8.com/color/48/000000/amazon-ecs.png"/> **Elastic Container Service (ECS)**: Orchestrating containerized applications.
-- <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Elastic Container Registry (ECR)**: Storing and managing Docker images.
-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> **Elastic Kubernetes Service (EKS)**: Managed Kubernetes for container orchestration.
-- <img src="https://img.icons8.com/color/48/000000/aws-systems-manager.png"/> **Systems Manager**: Automating operational tasks.
-- <img src="https://img.icons8.com/color/48/000000/amazon-route-53.png"/> **Route 53**: Managing domain names and DNS.
-- <img src="https://img.icons8.com/color/48/000000/amazon-certificate-manager.png"/> **Certificate Manager**: Simplifying SSL/TLS certificate management.
+## ⚡ What I Do
 
-## DevOps Proficiency
-- <img src="https://img.icons8.com/color/48/000000/linux.png"/> **Linux**: Command-line expertise for server administration.
-- <img src="https://img.icons8.com/color/48/000000/docker.png"/> **Docker**: Containerization for consistent deployment.
-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> **Kubernetes**: Container orchestration and management.
-- <img src="https://img.icons8.com/color/48/000000/kafka.png"/> **Kafka**: Distributed event streaming platform.
+- Design and build **distributed systems at scale**
+- Architect **event-driven platforms (Kafka, MQ, streaming)**
+- Develop **high-performance APIs (REST, gRPC, GraphQL)**
+- Optimize **batch processing (millions/billions of records)**
+- Integrate **Generative AI into real systems**
+- Support **pre-sales, architecture decisions, and technical leadership**
 
-## Librarianship Knowledge
-- <img src="https://img.icons8.com/color/48/000000/book.png"/> **DSpace**, <img src="https://img.icons8.com/color/48/000000/book.png"/> **OJS (Open Journal Systems)**: Expertise in scholarly publishing platforms.
-- <img src="https://img.icons8.com/color/48/000000/book.png"/> **Discovery Systems**: Enhancing access to library resources.
-- <img src="https://img.icons8.com/color/48/000000/book.png"/> **MARC21**, <img src="https://img.icons8.com/color/48/000000/book.png"/> **Dublin Core**: Metadata standards for library cataloging.
+---
+
+## 🧩 Core Stack
+
+### 🚀 Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,rust,python,nodejs,ts" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nestjs,nextjs" />
+</p>
+
+---
+
+### 🏗️ Architecture & APIs
+- Microservices & DDD (Hexagonal Architecture)
+- Event-Driven Architecture & Saga Pattern
+- REST, gRPC, GraphQL
+- Avro, Protobuf, Schema Registry
+
+---
+
+### ⚡ Messaging & Streaming
+<p>
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+</p>
+
+- Kafka, RabbitMQ, IBM MQ
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins" />
+</p>
+
+- AWS, Azure, OpenShift
+- CI/CD pipelines, containerized environments
+
+---
+
+### 🗄️ Databases & Data
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+- Oracle, PostgreSQL, MySQL, MongoDB
+- High-performance data modeling & processing
+
+---
+
+### 🤖 AI & Modern Engineering
+- Spring AI, OpenAI, Claude
+- MCP (Model Context Protocol – servers/clients)
+- AI automation with Python & N8N
+- GenAI-assisted development workflows
+
+---
+
+### 🔐 Blockchain & Cryptography
+- Solidity, Ethereum, Bitcoin
+- Cryptography: AES, RSA, DUKPT, HSM
+- Rust & Go for crypto systems
+
+---
+
+## 📊 Observability & Resilience
+
+<p>
+<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+- Micrometer, OpenTelemetry
+- Resilience4J, Circuit Breakers, Retry patterns
+- Rate limiting (Bucket4J)
+
+---
+
+## 🌍 Domains & Impact
+
+- 💳 Financial Systems (Clearing, Settlement, Middleware)
+- 📡 Distributed Event Processing
+- ☁️ Cloud-native platforms
+- 🤖 AI-powered systems & integrations
+- 📚 Digital repositories (DSpace, OJS)
+
+---
+
+## 🧠 Engineering Mindset
+
+- Clean Architecture & scalability-first design
+- Performance optimization & concurrency
+- Production-ready systems thinking
+- Strong ownership, communication & leadership
+
+---
+
+## 🌎 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/kelson-anthony  
+- 🧑‍💻 GitHub: https://github.com/kelsonthony  
+
+---
+
+⭐ *"I build systems that scale, evolve, and handle real-world complexity."*
